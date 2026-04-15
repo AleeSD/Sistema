@@ -26,7 +26,7 @@ Este proyecto ofrece una base sólida de **UI/UX moderna**, optimizada para disp
 
 ## Estructura del Proyecto
 
-```bash
+```
 ├── css/                 # Estilos compilados y librerías CSS
 ├── js/                  # Scripts y lógica de interacción
 ├── scss/                # Archivos fuente de Sass
@@ -40,60 +40,78 @@ Este proyecto ofrece una base sólida de **UI/UX moderna**, optimizada para disp
 ├── checkout.html        # Proceso de pago (demo)
 ├── blog.html            # Blog / noticias
 └── contact.html         # Formulario de contacto
+```
 
-⚙️ Instalación y Uso
-📋 Requisitos
-Navegador web moderno
-(Opcional) Herramientas de desarrollo:
-VS Code + extensión Live Server
-Live Sass Compiler o Node-Sass
-🔧 Pasos
+---
 
-Clonar el repositorio
+## ⚙️ Instalación y Uso
 
+### 📋 Requisitos
+
+- Navegador web moderno
+- (Opcional) Herramientas de desarrollo:
+  - VS Code + extensión Live Server
+  - Live Sass Compiler o Node-Sass
+
+### 🔧 Pasos
+
+1. **Clonar el repositorio**
+
+```bash
 git clone https://github.com/tu-usuario/nombre-del-repo.git
-Abrir el proyecto
-Abre index.html directamente en tu navegador
-O usa Live Server para desarrollo en tiempo real
-Procesamiento de formularios
-contact_process.php requiere un servidor local:
-XAMPP
-Laragon
-WAMP
-🎨 Personalización
+```
+
+2. **Abrir el proyecto**  
+   Abre `index.html` directamente en tu navegador, o usa Live Server para desarrollo en tiempo real.
+
+3. **Procesamiento de formularios**  
+   `contact_process.php` requiere un servidor local: XAMPP, Laragon o WAMP.
+
+---
+
+## � Personalización
 
 Puedes adaptar fácilmente la plantilla a tu marca:
 
-🎯 Colores y tipografía
-Modifica las variables en /scss
-🛍️ Productos
-Edita los datos directamente en los archivos HTML
-🖼️ Imágenes
-Reemplaza los archivos en /img
-(Mantén dimensiones similares para evitar problemas de diseño)
-🧪 Tecnologías utilizadas
-HTML5
-CSS3 / SCSS
-JavaScript
-Bootstrap
-Plugins externos (Owl Carousel, NiceSelect, etc.)
-📌 Notas
-Este proyecto es una plantilla estática, no incluye backend.
-Ideal para:
-Prototipos
-Landing pages
-Integración con APIs o CMS
-✒️ Autor
+- 🎯 **Colores y tipografía** — Modifica las variables en `/scss`
+- 🛍️ **Productos** — Edita los datos directamente en los archivos HTML
+- 🖼️ **Imágenes** — Reemplaza los archivos en `/img` (mantén dimensiones similares para evitar problemas de diseño)
 
-Alee Alhikof Sayes Delgado
-💻 Desarrollo inicial
-🔗 GitHub: TuGitHub
+---
 
-⭐ Contribuciones
+## 🧪 Tecnologías utilizadas
+
+- HTML5
+- CSS3 / SCSS
+- JavaScript
+- Bootstrap
+- Plugins externos (Owl Carousel, NiceSelect, etc.)
+
+---
+
+## 📌 Notas
+
+Este proyecto es una plantilla estática, no incluye backend. Ideal para:
+
+- Prototipos
+- Landing pages
+- Integración con APIs o CMS
+
+---
+
+## ✒️ Autor
+
+**Alee Alhikof Sayes Delgado**  
+💻 Desarrollo inicial  
+🔗 GitHub: [TuGitHub](https://github.com/TuGitHub)
+
+---
+
+## ⭐ Contribuciones
 
 ¡Las contribuciones son bienvenidas!
 
-Haz un fork
-Crea una rama (feature/nueva-funcionalidad)
-Haz commit de tus cambios
-Envía un pull request
+1. Haz un fork
+2. Crea una rama (`feature/nueva-funcionalidad`)
+3. Haz commit de tus cambios
+4. Envía un pull request
