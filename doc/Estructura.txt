@@ -1,17 +1,16 @@
-Estructura del Proyecto
+Características
 
-```
-├── css/                 # Estilos compilados y librerías CSS
-├── js/                  # Scripts y lógica de interacción
-├── scss/                # Archivos fuente de Sass
-├── vendors/             # Plugins de terceros (Owl, NiceSelect, etc.)
-├── img/                 # Recursos visuales
-│
-├── index.html           # Página principal
-├── category.html        # Catálogo de productos
-├── single-product.html  # Detalle de producto
-├── cart.html            # Carrito de compras
-├── checkout.html        # Proceso de pago (demo)
-├── blog.html            # Blog / noticias
-└── contact.html         # Formulario de contacto
-```
+- **Ecosistema completo de páginas**  
+  Incluye catálogo, carrito, checkout y blog.
+
+- **Diseño responsive**  
+  Adaptado a móviles, tablets y escritorio usando **Bootstrap**.
+
+- **Componentes UI premium**  
+  Sliders dinámicos, selectores personalizados y galerías interactivas.
+
+- **Optimización visual**  
+  Transiciones suaves, efectos hover y carga eficiente de imágenes.
+
+- **Arquitectura escalable**  
+  Uso de **SCSS** para una mejor organización y personalización de estilos.
