@@ -1,0 +1,17 @@
+## Estructura del Proyecto
+
+```
+├── css/                 # Estilos compilados y librerías CSS
+├── js/                  # Scripts y lógica de interacción
+├── scss/                # Archivos fuente de Sass
+├── vendors/             # Plugins de terceros (Owl, NiceSelect, etc.)
+├── img/                 # Recursos visuales
+│
+├── index.html           # Página principal
+├── category.html        # Catálogo de productos
+├── single-product.html  # Detalle de producto
+├── cart.html            # Carrito de compras
+├── checkout.html        # Proceso de pago (demo)
+├── blog.html            # Blog / noticias
+└── contact.html         # Formulario de contacto
+```
