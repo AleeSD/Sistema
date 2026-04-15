@@ -103,7 +103,7 @@ Este proyecto es una plantilla estática, no incluye backend. Ideal para:
 
 **Alee Alhikof Sayes Delgado**  
 💻 Desarrollo inicial  
-🔗 GitHub: [TuGitHub](https://github.com/TuGitHub)
+🔗 GitHub: [TuGitHub](https://github.com/AleeSD)
 
 ---
 
