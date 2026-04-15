@@ -115,3 +115,4 @@ Este proyecto es una plantilla estática, no incluye backend. Ideal para:
 2. Crea una rama (`feature/nueva-funcionalidad`)
 3. Haz commit de tus cambios
 4. Envía un pull request
+
